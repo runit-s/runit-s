@@ -7,7 +7,7 @@
 <h3>Problem Solving:</h3>
 <ul>
     <li>Been programming for more than 3 years</li>
-    <li>Expert on Codeforces</li>
+    <li>Expert on Codeforces, max. rating 1619.</li>
     <li>Got all India rank under 100 in cp contest a few times (Codeforces, Codechef, Leetcode)</li>
 </ul>
 
